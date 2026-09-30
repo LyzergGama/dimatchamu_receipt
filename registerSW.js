@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/cafe-printer/sw.js', { scope: '/cafe-printer/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/dimatchamu_receipt/sw.js', { scope: '/dimatchamu_receipt/' })})}
